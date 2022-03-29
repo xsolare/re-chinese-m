@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.injurka.re_chinese_m"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
